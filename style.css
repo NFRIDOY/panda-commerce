@@ -8,8 +8,10 @@
     padding-top: 50px;
 }
 .btn-buy {
-    background-color: #FF136F;
+    /* background-color: #FF136F; */
+    background-image: linear-gradient( to bottom,#FF589B 0% ,#FF136F 100%);
     padding: 10px 25px;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
