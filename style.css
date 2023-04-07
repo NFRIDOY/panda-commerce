@@ -2,8 +2,18 @@
     /* padding: 20px 150px; */
     padding: 20px 100px;
     /* border: 2px solid feeae9; */
-    background-color: #feeae9;
+    
 }
+.container {
+    margin-bottom: 7%; 
+    /*100px*/
+}
+.carousel-container {
+    background-color: #feeae9;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+}
+
 .price {
     color: #FF136F;
     /* padding-top: 50px; */
