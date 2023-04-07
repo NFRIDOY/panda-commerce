@@ -1,11 +1,12 @@
 .carousel-item {
-    padding: 20px 150px;
+    /* padding: 20px 150px; */
+    padding: 20px 100px;
     /* border: 2px solid feeae9; */
     background-color: #feeae9;
 }
 .price {
     color: #FF136F;
-    padding-top: 50px;
+    /* padding-top: 50px; */
 }
 .btn-buy {
     /* background-color: #FF136F; */
