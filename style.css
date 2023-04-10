@@ -38,20 +38,28 @@
 } */
 .cat1, .cat2, .cat3{
     /* padding: 10px 100px; */
-
+    /* border: 2px solid red; */
+    border-radius: 10px;
+}
+.categories {
+    border: none;
 }
 .cat1 {
-    background-color: orange;
+    /* background-color: orange; */
+    /* background-image: linear-gradient(90deg, orange,  white); */
+    background: linear-gradient(107deg, rgb(255, 67, 5) 11.1%, rgb(245, 135, 0) 95.3%);
     
 }
 .cat-title {
     padding: 50px 20px;
 }
 .cat2 {
-    background-color: orchid;
+    /* background-color: orchid; */
+    background: radial-gradient(circle at 10% 20%, rgb(111, 111, 219) 0%, rgb(182, 109, 246) 72.4%);
 }
 .cat3 {
-    background-color: yellowgreen;
+    /* background-color: yellowgreen; */
+    background: linear-gradient(109.6deg, rgb(0, 204, 130) 11.2%, rgb(58, 181, 46) 91.7%);
 }
 .categories h1 {
     color: white;
@@ -59,3 +67,26 @@
 .categories img {
     width: 100px;
 }
+.btn-c {
+    margin-left: 20px;
+    margin-bottom: 25px;
+    /* margin-top: 10px;
+    margin-right: 80px; */
+    display: flex;
+    /* flex-direction: column; */
+    align-items: start;
+} 
+.card {
+ border-top: none;
+ box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer {
+    padding: 0.75rem 1.25rem;
+    border: none;
+    background-color: white;
+    
+}
+.btn-c2 {
+    margin-bottom: 7px;
+}
+
