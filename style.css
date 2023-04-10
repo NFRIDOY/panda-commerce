@@ -50,6 +50,9 @@
     background: linear-gradient(107deg, rgb(255, 67, 5) 11.1%, rgb(245, 135, 0) 95.3%);
     
 }
+.btn-cat {
+    background-color: aqua;
+}
 .cat-title {
     padding: 50px 20px;
 }
@@ -112,3 +115,4 @@
 .sub1 h5 {
     margin: 20px;
 }
+
