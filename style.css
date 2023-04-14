@@ -19,6 +19,9 @@
     color: #FF136F;
     /* padding-top: 50px; */
 }
+.caro-text {
+    overflow: scroll;
+}
 .btn-buy {
     /* background-color: #FF136F; */
     background-image: linear-gradient( to bottom,#FF589B 0% ,#FF136F 100%);
